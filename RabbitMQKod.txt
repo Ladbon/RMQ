@@ -1,0 +1,3 @@
+2018
+Lärde mig lite RabbitMQ här. 
+Satte ihop ett kvickt test som jag fortsätter fortfarande med. 
